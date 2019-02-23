@@ -3,7 +3,8 @@ Customizable `Cedar Maps` autocomplete component for iOS and Android React-Nativ
 
 ### Preview
 
-![]()
+![gif](https://user-images.githubusercontent.com/29279799/53280796-bfaa9c80-3733-11e9-9d65-ec2ebf433044.gif)
+
 
 ### Installation
 
